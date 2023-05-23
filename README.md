@@ -9,8 +9,8 @@ giọng nói dễ dàng bằng cách chuyển đổi từ văn bản.
 
 ```SendVoicePlayer(playerid, const szMsg[], language = 0)```
 
-- Chức năng này giúp bạn gửi giọng nói được chuyển đổi từ văn bản cho người chơi.
+- Chức năng này giúp chuyển đổi giọng nói từ văn bản và gửi cho người chơi.
 
 ```SendVoiceAll(playerid, const szMsg[], language = 0)```
 
-- Chức năng này giúp bạn gửi giọng nói được chuyển đổi cho toàn bộ người chơi.
+- Chức năng này giúp chuyển đổi giọng nói từ văn bản và gửi cho toàn bộ người chơi.
