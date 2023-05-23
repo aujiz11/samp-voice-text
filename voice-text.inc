@@ -28,7 +28,7 @@ stock SendVoicePlayer(playerid, const szMsg[], language = 0)
 	return PlayAudioStreamForPlayer(playerid, szUrl);
 }
 
-stock SendVoiceAll(playerid, const szMsg[], language = 0)
+stock SendVoiceAll(const szMsg[], language = 0)
 {
 	new
 		szUrl[360];
